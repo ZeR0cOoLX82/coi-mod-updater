@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1342960185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2a267b7f3e34fa604ce7dccc5a0fad9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4445f1003999d21588b13e14496136f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logistics/Icons/Zipper_IoPortShape_FlatConveyor_long.png
+- Assets/Logistics/Icons/CounterPipe.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_LooseMaterialConveyor_long.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_FlatConveyor_large.png
+- Assets/Logistics/Icons/CounterLoose.png
+- Assets/Logistics/Icons/Sorter_IoPortShape_Pipe.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_Pipe_long.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_LooseMaterialConveyor_large.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_LooseMaterialConveyor_small.png
+- Assets/Logistics/Icons/CounterMolten.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_FlatConveyor_small.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_Pipe_large.png
+- Assets/Logistics/Icons/Zipper_IoPortShape_Pipe_small.png
+- Assets/Logistics/Icons/CounterFlat.png
+Dependencies: []

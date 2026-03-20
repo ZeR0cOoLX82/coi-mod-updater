@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3393241509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49dfced3cdc67e16c5c6e7b33121fe0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce523b631a8c9e3708aad88dabc515ed
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 86b026577b91bd000ec36855f9b9f871
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Products/FoodCanVegetables.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/products_7524

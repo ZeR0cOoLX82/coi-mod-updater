@@ -1,0 +1,12 @@
+{
+  "id": "COIExtended-Core",
+  "version": "1.1.6",
+  "authors": ["Keranik"],
+  "display_name": "COIExtended-Core",
+  "description_short": "This mod is the main overhaul mod for the COIExtended mod family.",
+  "min_game_version": "0.8",
+  "primary_dlls": ["COIExtended.Core.dll"],
+  "optional_mod_dependencies": [],
+  "non_locking_dll_load": false,
+  "can_add_to_saved_game": true
+}

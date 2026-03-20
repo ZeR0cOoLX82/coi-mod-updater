@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1977290819
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 155cb04fc809e95e1421c0af8b9a6fb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce523b631a8c9e3708aad88dabc515ed
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e0d2ac35e0727e9954fcd27b7e7f631b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Products/Countable/AluminumFoil.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/countable_6f65

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1887286905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55143d37c9dfd7711aeecee1c600c911
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f09f353e8ecdc6e7ebb87418ea2f0403
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logistics/Trains/LocomotiveT1Hydrogen.png
+Dependencies: []

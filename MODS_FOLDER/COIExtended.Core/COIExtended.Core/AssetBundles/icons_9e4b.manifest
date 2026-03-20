@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 55180585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05ed4dacbd6965b662be60f701f57658
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 383390d32bbf2ce3987d9117309ac4fe
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Icons/Cotton.svg
+- Assets/Agriculture/Icons/ChlorineDioxide.png
+- Assets/Agriculture/Icons/HamLeg.svg
+- Assets/Agriculture/Icons/FoodCanPack.svg
+- Assets/Agriculture/Icons/Butter.svg
+- Assets/Agriculture/Icons/WhitePigment.svg
+- Assets/Agriculture/Icons/Textiles2.svg
+- Assets/Agriculture/Icons/FishingDock.png
+- Assets/Agriculture/Icons/Tuna.svg
+- Assets/Agriculture/Icons/GreenPigment.svg
+- Assets/Agriculture/Icons/FoodCanSpinach.svg
+- Assets/Agriculture/Icons/Textiles1.svg
+- Assets/Agriculture/Icons/Swordfish.svg
+- Assets/Agriculture/Icons/Sardines_old.svg
+- Assets/Agriculture/Icons/RedPigment.svg
+- Assets/Agriculture/Icons/Azurite.svg
+- Assets/Agriculture/Icons/Wool.svg
+- Assets/Agriculture/Icons/WhiteDye.svg
+- Assets/Agriculture/Icons/Sheep.svg
+- Assets/Agriculture/Icons/FoodCanFish.svg
+- Assets/Agriculture/Icons/Milk.svg
+- Assets/Agriculture/Icons/Honey.svg
+- Assets/Agriculture/Icons/YellowPigment.svg
+- Assets/Agriculture/Icons/Ochre.svg
+- Assets/Agriculture/Icons/FoodCanVegetables.svg
+- Assets/Agriculture/Icons/CookingOil.svg
+- Assets/Agriculture/Icons/RawPork.svg
+- Assets/Agriculture/Icons/FishScales.svg
+- Assets/Agriculture/Icons/RawFish.svg
+- Assets/Agriculture/Icons/BluePigment.svg
+- Assets/Agriculture/Icons/Textiles3.svg
+- Assets/Agriculture/Icons/PigCarcass.svg
+- Assets/Agriculture/Icons/Spinach.svg
+- Assets/Agriculture/Icons/CannedFish.svg
+- Assets/Agriculture/Icons/CoalTar.png
+- Assets/Agriculture/Icons/TitaniumDioxide.svg
+- Assets/Agriculture/Icons/Malachite.svg
+- Assets/Agriculture/Icons/HoneyHam.svg
+- Assets/Agriculture/Icons/RedDye.svg
+- Assets/Agriculture/Icons/FoodCanEmpty.svg
+- Assets/Agriculture/Icons/Indigo.svg
+- Assets/Agriculture/Icons/Cannery.png
+- Assets/Agriculture/Icons/Pig.svg
+- Assets/Agriculture/Icons/Bee.svg
+- Assets/Agriculture/Icons/Kebab.svg
+- Assets/Agriculture/Icons/Cod.svg
+- Assets/Agriculture/Icons/ScrapFabric.svg
+- Assets/Agriculture/Icons/CowCarcass.svg
+- Assets/Agriculture/Icons/Anchovies.svg
+- Assets/Agriculture/Icons/FishingDock2.png
+- Assets/Agriculture/Icons/Textiles4.svg
+- Assets/Agriculture/Icons/Mackerel.svg
+- Assets/Agriculture/Icons/Sunflower.svg
+- Assets/Agriculture/Icons/BeeCarcass.svg
+- Assets/Agriculture/Icons/Cow.svg
+- Assets/Agriculture/Icons/FishOil.svg
+- Assets/Agriculture/Icons/Peppers.svg
+- Assets/Agriculture/Icons/Hematite.svg
+- Assets/Agriculture/Icons/RawBeef.svg
+- Assets/Agriculture/Icons/FishingDock3.png
+- Assets/Agriculture/Icons/Cheese.svg
+- Assets/Agriculture/Icons/RawLamb.svg
+- Assets/Agriculture/Icons/BottledMilk.svg
+- Assets/Agriculture/Icons/Sardines.svg
+- Assets/Agriculture/Icons/LambCarcass.svg
+- Assets/Agriculture/Icons/Saffron.svg
+- Assets/Agriculture/Icons/FoodCanFruit.svg
+- Assets/Agriculture/Icons/BlueDye.svg
+- Assets/Agriculture/Icons/YellowDye.svg
+- Assets/Agriculture/Icons/SodiumChlorite.svg
+- Assets/Agriculture/Icons/BasicFabric.svg
+- Assets/Agriculture/Icons/GreenDye.svg
+- Assets/Agriculture/Icons/SunflowerOil.svg
+Dependencies: []

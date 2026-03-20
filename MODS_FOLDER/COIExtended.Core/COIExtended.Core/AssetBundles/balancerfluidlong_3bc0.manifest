@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2692894390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9179487bbddaf26123a9afc478607cb6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce523b631a8c9e3708aad88dabc515ed
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c16ee2cc6302dc175ee6f436e6918451
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logistics/Balancers/BalancerFluidLong.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/balancers_127d

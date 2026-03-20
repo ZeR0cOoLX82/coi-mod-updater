@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2266048143
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05a14876aef84cc08c639d10449b0a6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aca0402fd9782461b6fc6958b7f53e9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Buildings/MaintenanceDepotT4/MaintenanceDepotT4-metallic.png
+- Assets/Core/Buildings/MaintenanceDepotT4/MaintenanceDepotT4.glb
+- Assets/Core/Buildings/MaintenanceDepotT4/MaintenanceDepotT4-albedo.png
+- Assets/Core/Buildings/MaintenanceDepotT4/MaintenanceDepotT4.mat
+- Assets/Core/Buildings/MaintenanceDepotT4/MaintenanceDepotT4-normals.png
+Dependencies: []

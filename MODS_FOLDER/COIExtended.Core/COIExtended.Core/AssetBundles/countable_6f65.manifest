@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2105053095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66fd8f751e64e54cdfb7919854b05d19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6c64ab450da7b324764c9165a9f40189
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Products/Countable/DTFuelRod-normals.png
+- Assets/Core/Products/Countable/SiliconWaferBroken-128-albedo.png
+- Assets/Core/Products/Countable/Lithium7-albedo.png
+- Assets/Core/Products/Countable/SupercomputerSatellite.mat
+- Assets/Core/Products/Countable/Lithium6-albedo.png
+- Assets/Core/Products/Countable/MechanicalPartsT2-128-normal.png
+- Assets/Core/Products/Countable/AlnicoIngot.mat
+- Assets/Core/Products/Countable/MechanicalPartsT2-128-albedo.png
+- Assets/Core/Products/Countable/Lithium-normals.png
+- Assets/Core/Products/Countable/AluminumFoilObj.glb
+- Assets/Core/Products/Countable/DTFusionFuelRod.mat
+- Assets/Core/Products/Countable/AluminumFoil-albedo.png
+- Assets/Core/Products/Countable/BatteryPackLithium.mat
+- Assets/Core/Products/Countable/SolarSatelliteHighNi.mat
+- Assets/Core/Products/Countable/BatteryPackLithium-metallic.png
+- Assets/Core/Products/Countable/RelaySatellite.mat
+- Assets/Core/Products/Countable/SiliconObj.glb
+- Assets/Core/Products/Countable/CathodeHighNi.mat
+- Assets/Core/Products/Countable/SolarThruster-128-albedo.png
+- Assets/Core/Products/Countable/AluminumFoil-normals.png
+- Assets/Core/Products/Countable/BatteryPackLithium-albedo.png
+- Assets/Core/Products/Countable/Lab5-metallic.png
+- Assets/Core/Products/Countable/BatteryPackLithium.glb
+- Assets/Core/Products/Countable/Lab5-albedo.png
+- Assets/Core/Products/Countable/MechanicalPartsT2.mat
+- Assets/Core/Products/Countable/SolarSatelliteHighNi-128-albedo.png
+- Assets/Core/Products/Countable/Cathode-albedo.png
+- Assets/Core/Products/Countable/PCB.glb
+- Assets/Core/Products/Countable/OfficeSupplies.glb
+- Assets/Core/Products/Countable/SolarSatellite.mat
+- Assets/Core/Products/Countable/AluminumFoil-metallic.png
+- Assets/Core/Products/Countable/DTFuelRodObj.glb
+- Assets/Core/Products/Countable/Lithium7.mat
+- Assets/Core/Products/Countable/SiliconWaferBroken-128-metallic.png
+- Assets/Core/Products/Countable/SatelliteThruster.mat
+- Assets/Core/Products/Countable/CathodeHighNi-albedo.png
+- Assets/Core/Products/Countable/LithiumObj.glb
+- Assets/Core/Products/Countable/Lab5.mat
+- Assets/Core/Products/Countable/SolarSatellite-128-albedo.png
+- Assets/Core/Products/Countable/MnSteelIngot-albedo.png
+- Assets/Core/Products/Countable/SiliconWaferBroken.mat
+- Assets/Core/Products/Countable/AlnicoIngot-albedo.png
+- Assets/Core/Products/Countable/CommsSatellite-128-albedo.png
+- Assets/Core/Products/Countable/Aluminum.glb
+- Assets/Core/Products/Countable/Lab5GLB.glb
+- Assets/Core/Products/Countable/MechanicalPartsT2.glb
+- Assets/Core/Products/Countable/BatteryPackLithium-normals.png
+- Assets/Core/Products/Countable/Cathode-smoothmetal.png
+- Assets/Core/Products/Countable/Cathode-normals.png
+- Assets/Core/Products/Countable/MechanicalPartsT2-128-metallic.png
+- Assets/Core/Products/Countable/SiliconWaferBroken-128-normals.png
+- Assets/Core/Products/Countable/DTFuelRod-albedo.png
+- Assets/Core/Products/Countable/AluminumFoil.mat
+- Assets/Core/Products/Countable/SupercomputerSatellite-128-albedo.png
+- Assets/Core/Products/Countable/DTFusionFuelRodSpent.mat
+- Assets/Core/Products/Countable/CathodeNMC.mat
+- Assets/Core/Products/Countable/Lithium6.mat
+- Assets/Core/Products/Countable/RelaySatellite-128-albedo.png
+- Assets/Core/Products/Countable/DTFuelRodSpent-albedo.png
+- Assets/Core/Products/Countable/MnSteelIngot.mat
+- Assets/Core/Products/Countable/CommsSatellite.mat
+Dependencies: []

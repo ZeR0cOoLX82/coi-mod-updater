@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2519513206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1d30150a70e66e9cc6b838e791833c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ecdff4facae29960c6b924cc0981a35
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4af604701fa989802205327aecf754a6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Vehicles/Trees-64-albedo.png
+- Assets/Vehicles/Belt-128-normals.png
+- Assets/Vehicles/Tracks-128-metallic.png
+- Assets/Vehicles/LargeExcavatorS.mat
+- Assets/Vehicles/ExcavatorT2Hydrogen.fbx
+- Assets/Vehicles/TreePlanterBelt.mat
+- Assets/Vehicles/Belt-128-smoothmetal.png
+- Assets/Vehicles/TreeHarvester.glb
+- Assets/Vehicles/LargeExcavator-512-metallic-old.png
+- Assets/Vehicles/Tracks-128-normals.png
+- Assets/Vehicles/Tracks128.mat
+- Assets/Vehicles/ExcavatorTracks.mat
+- Assets/Vehicles/LargeExcavatorH.mat
+- Assets/Vehicles/TreeHarvester-512-metallic.png
+- Assets/Vehicles/ExcavatorT2.fbx
+- Assets/Vehicles/LargeExcavatorS-512-metallic.png
+- Assets/Vehicles/TreeHarvesterTracks-256-albedo.png
+- Assets/Vehicles/TreeHarvester-512-albedo.png
+- Assets/Vehicles/ExcavatorT3Tracks-128-albedo.png
+- Assets/Vehicles/ExcavatorT3Tracks-128-smoothmetal.png
+- Assets/Vehicles/TreeHarvester-512-normals.png
+- Assets/Vehicles/LargeExcavator-512-albedo.png
+- Assets/Vehicles/LargeExcavatorS-512-albedo.png
+- Assets/Vehicles/LargeExcavatorS-512-normals.png
+- Assets/Vehicles/TreePlanter.mat
+- Assets/Vehicles/LargeExcavator-512-normals.png
+- Assets/Vehicles/LargeExcavator.mat
+- Assets/Vehicles/ExcavatorT3Tracks-128-normals.png
+- Assets/Vehicles/ExcavatorTest.controller
+- Assets/Vehicles/Belt-128-albedo.png
+- Assets/Vehicles/LargeExcavatorH-512-albedo.png
+- Assets/Vehicles/TreeHarvesterTracks-256-metallic.png
+- Assets/Vehicles/TreeHarvesterTracks.mat
+- Assets/Vehicles/TreePlanter-512-normals.png
+- Assets/Vehicles/TreePlanter.glb
+- Assets/Vehicles/TreePlanter-512-albedo.png
+- Assets/Vehicles/LargeExcavatorH-512-normals.png
+- Assets/Vehicles/Tracks-128-albedo.png
+- Assets/Vehicles/LargeExcavatorH-512-metallic.png
+- Assets/Vehicles/TreePlanter-512-smoothmetal.png
+- Assets/Vehicles/TreePlanterTrees.mat
+- Assets/Vehicles/TreeHarvesterTracks-256-normals.png
+- Assets/Vehicles/TreeHarvester.mat
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/resources_279b

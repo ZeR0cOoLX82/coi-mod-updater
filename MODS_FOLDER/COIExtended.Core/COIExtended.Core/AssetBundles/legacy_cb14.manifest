@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 110937434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 881553d6230d57fed9c9804df775fe1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fa1077f88c3430da743f061a8b18e879
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Vehicles/Legacy/TruckBase.glb
+- Assets/Vehicles/Legacy/LargeTruckS-512-albedo.png
+- Assets/Vehicles/Legacy/TruckBase-512-albedo.png
+- Assets/Vehicles/Legacy/LargeTruckS.png
+- Assets/Vehicles/Legacy/LargeTruckH-512-albedo.png
+- Assets/Vehicles/Legacy/TruckBase-512-normals.png
+- Assets/Vehicles/Legacy/LargeTruckS.mat
+- Assets/Vehicles/Legacy/LargeTruckH.png
+- Assets/Vehicles/Legacy/LargeTruck.png
+- Assets/Vehicles/Legacy/TruckBase-512-metallic.png
+- Assets/Vehicles/Legacy/TractorTruckMat.mat
+- Assets/Vehicles/Legacy/LargeTruckH.mat
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/resources_279b

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3615402265
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d34e78336dfbe6550471d7abcb764870
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 74dec1e13dc583ab3a1e938c8f4387d6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Materials/NickelOre-2048-albedo-height 1.png
+- Assets/Core/Materials/TransportFlowArrow.mat
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/shaders_f087

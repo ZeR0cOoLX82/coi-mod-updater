@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1675677494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 121c5b7f412c759b1f12e6679c1a2556
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1abbe107d9e357aa550e5a8881295dea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 670d5b013448ff5ecf62f1085b02a839
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Buildings/BricksMaker-1024-normals.png
+- Assets/Agriculture/Buildings/BeeHouse-512-albedo.png
+- Assets/Agriculture/Buildings/Shipyard2.mat
+- Assets/Agriculture/Buildings/PigSty-512-albedo.png
+- Assets/Agriculture/Buildings/Shipyard.mat
+- Assets/Agriculture/Buildings/Cannery.mat
+- Assets/Agriculture/Buildings/ChickenFarm.glb
+- Assets/Agriculture/Buildings/SheepPen-512-albedo.png
+- Assets/Agriculture/Buildings/Chicken.glb
+- Assets/Agriculture/Buildings/FishingDock.mat
+- Assets/Agriculture/Buildings/TradeDock-1024-normals.png
+- Assets/Agriculture/Buildings/CowPasture-512-albedo.png
+- Assets/Agriculture/Buildings/BricksMaker-1024-albedo.png
+- Assets/Agriculture/Buildings/BricksMaker-512-emissive.png
+- Assets/Agriculture/Buildings/ChickenFarm-512-metalliic.png
+- Assets/Agriculture/Buildings/ShipyardT2-1024-metallic.png
+- Assets/Agriculture/Buildings/TradeDock-512-albedo.png
+- Assets/Agriculture/Buildings/CowPasture.mat
+- Assets/Agriculture/Buildings/AnimalFarm.controller
+- Assets/Agriculture/Buildings/Cannery.obj
+- Assets/Agriculture/Buildings/FishingDock2.obj
+- Assets/Agriculture/Buildings/FishingDock.obj
+- Assets/Agriculture/Buildings/ChickenFarm-1024-normals.png
+- Assets/Agriculture/Buildings/ShipyardT2-512-normals.png
+- Assets/Agriculture/Buildings/BricksMaker-512-metallic.png
+- Assets/Agriculture/Buildings/ShipyardT3-1024-albedo.png
+- Assets/Agriculture/Buildings/ShipyardT2-1024-albedo.png
+- Assets/Agriculture/Buildings/TradeDock-256-metallic.png
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 553251438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 548d795df2da2bdb7aa10428787bc91a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce523b631a8c9e3708aad88dabc515ed
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c87e29bb640c93d869563c0a43213861
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Products/Cod.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/products_7524

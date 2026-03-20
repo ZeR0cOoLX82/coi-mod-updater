@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3143258008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cebd0c179a79b3345ea3188c13970700
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2ead1a5db134efa5d4821a295d87ce7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cff10d915d49877356b4175c1303f7cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Machines/Distillery/DistillationT1.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/distillery_b610
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/particles_8552

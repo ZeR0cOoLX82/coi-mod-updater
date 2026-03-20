@@ -1,0 +1,12 @@
+{
+  "id": "COIExtended-ItemSink",
+  "version": "1.1.6",
+  "authors": ["Keranik"],
+  "display_name": "COIExtended-ItemSink",
+  "description_short": "Adds an item sink and item source to the game.",
+  "min_game_version": "0.8",
+  "primary_dlls": ["COIExtended.ItemSink.dll"],
+  "optional_mod_dependencies": [],
+  "non_locking_dll_load": true,
+  "can_add_to_saved_game": true
+}

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1478205695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abf9205be14eca6fcef5898fb4d806c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b0a3da3d08f67ec9cbc28e3ab7c39fb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 438e5791d75ff9f6e3afb321451da54c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Buildings/FishingDock2.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/buildings_69f3

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1470492629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fe0efba9309dd950da613bb2a2de65f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e73977b52d523fc232b63ec77c2df1df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Buildings/LadleFurnace/LadleFurnace-512-metallic_0.png
+- Assets/Core/Buildings/LadleFurnace/LadleFurnace-1024-albedo_1.jpg
+- Assets/Core/Buildings/LadleFurnace/LadleFurnace-1024-normals_1.png
+- Assets/Core/Buildings/LadleFurnace/LadleFurnace.mat
+- Assets/Core/Buildings/LadleFurnace/LadleFurnace.obj
+Dependencies: []

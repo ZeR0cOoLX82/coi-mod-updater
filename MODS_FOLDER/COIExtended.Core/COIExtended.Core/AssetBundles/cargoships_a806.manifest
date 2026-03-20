@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 714818138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2fb35a55f30e2dac95c731ff51c8b513
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6a6bd7c6d7c7513076d156566e942ff7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/CargoShips/Cranes-1024-metallic.png
+- Assets/Core/CargoShips/FuelModule-512-normals.png
+- Assets/Core/CargoShips/Cranes-1024-normals.png
+- Assets/Core/CargoShips/FuelModule.mat
+- Assets/Core/CargoShips/CargoDepotT6.fbx
+- Assets/Core/CargoShips/Cranes.mat
+- Assets/Core/CargoShips/CargoDepotT4WIP.fbx
+- Assets/Core/CargoShips/FuelModule-512-metallic.png
+- Assets/Core/CargoShips/Cranes-1024-albedo.png
+- Assets/Core/CargoShips/FuelModule-512-albedo.png
+Dependencies: []

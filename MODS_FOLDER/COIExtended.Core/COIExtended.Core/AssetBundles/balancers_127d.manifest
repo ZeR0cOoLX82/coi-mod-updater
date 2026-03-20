@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3428930373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7201e2341a6d5d458910bf2216698cf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 56b9d49508f4b27e50c95cdbbcaf6e21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logistics/Balancers/FluidBalancer.mat
+- Assets/Logistics/Balancers/UShapeBalancer.mat
+- Assets/Logistics/Balancers/Fluid-256-metallic.png
+- Assets/Logistics/Balancers/BalancerFluidLong.obj
+- Assets/Logistics/Balancers/Loose-256-normals.png
+- Assets/Logistics/Balancers/BalancerFluidLarge.obj
+- Assets/Logistics/Balancers/Uni-1024-albedo.png
+- Assets/Logistics/Balancers/Unit-256-normals.png
+- Assets/Logistics/Balancers/Unit-256-metallic.png
+- Assets/Logistics/Balancers/BalancerUShapeLarge.obj
+- Assets/Logistics/Balancers/SorterFluid.obj
+- Assets/Logistics/Balancers/BalancerUnitLong.obj
+- Assets/Logistics/Balancers/Loose-1024-albedo.png
+- Assets/Logistics/Balancers/UnitBalancerOld.mat
+- Assets/Logistics/Balancers/BalancerUShapeLong.obj
+- Assets/Logistics/Balancers/UnitBalancerEnhanced.mat
+- Assets/Logistics/Balancers/BalancerUnitLarge.obj
+- Assets/Logistics/Balancers/Uni-256-albedo.png
+- Assets/Logistics/Balancers/Loose-256-metallic.png
+- Assets/Logistics/Balancers/Fluid-256-normals.png
+- Assets/Logistics/Balancers/Fluid-1024-albedo.png
+Dependencies: []

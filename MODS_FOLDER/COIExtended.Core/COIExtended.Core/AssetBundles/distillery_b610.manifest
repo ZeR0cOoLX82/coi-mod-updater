@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2934683082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e195973d564534cc1c093cc23d9b913
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ac0886c7dee8b5d56289f833b1b2ef4a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Machines/Distillery/DistillationT3-512-albedo.png
+- Assets/Core/Machines/Distillery/DistillationT2.glb
+- Assets/Core/Machines/Distillery/DistillationT1-512-metallic.png
+- Assets/Core/Machines/Distillery/DistillationT2-512-normals.png
+- Assets/Core/Machines/Distillery/DistillationT3.glb
+- Assets/Core/Machines/Distillery/DistillationT3.mat
+- Assets/Core/Machines/Distillery/DistillationT3-512-metallic.png
+- Assets/Core/Machines/Distillery/DistillationT2.mat
+- Assets/Core/Machines/Distillery/DistillationT1-512-albedo.png
+- Assets/Core/Machines/Distillery/DistillationT1.glb
+- Assets/Core/Machines/Distillery/DistillationT1.mat
+- Assets/Core/Machines/Distillery/DistillationT1-512-normals.png
+- Assets/Core/Machines/Distillery/DistillationT2-512-albedo.png
+- Assets/Core/Machines/Distillery/DistillationT3-512-normals.png
+- Assets/Core/Machines/Distillery/DistillationT2-512-metallic.png
+Dependencies: []

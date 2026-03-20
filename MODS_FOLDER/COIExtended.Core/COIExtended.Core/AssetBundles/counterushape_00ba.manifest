@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3549403216
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0c9358d7ca6a97191f6b425cbf10c58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0abe3643558135489b2bcc171fe87f46
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2d33ca0515d9bbff38efa2f1ced086e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Logistics/Counter/CounterUShape.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/counter_d901
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/digital_bbb2

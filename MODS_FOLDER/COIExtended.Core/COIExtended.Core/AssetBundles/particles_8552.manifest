@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2297290578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e025fbf144ab64b663f25d326fe268cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 863fe9bdfdba12282a4dd0f5624c9b92
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Particles/NickelOre-2048-albedo-height 1.png
+- Assets/Core/Particles/SteamPress-Stack.mat
+- Assets/Core/Particles/TransportFlowArrow.mat
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/resources_279b

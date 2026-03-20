@@ -1,0 +1,12 @@
+{
+  "id": "COIExtended-StoragePlus",
+  "version": "1.1.6",
+  "authors": ["Keranik"],
+  "display_name": "COIExtended-StoragePlus",
+  "description_short": "An extended UI for the Storage class to enhance the functionality.",
+  "min_game_version": "0.8",
+  "primary_dlls": ["COIExtended.StoragePlus.dll"],
+  "optional_mod_dependencies": [],
+  "non_locking_dll_load": false,
+  "can_add_to_saved_game": true
+}

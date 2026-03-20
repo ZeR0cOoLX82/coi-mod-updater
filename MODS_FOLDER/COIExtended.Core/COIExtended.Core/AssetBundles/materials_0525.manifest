@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1109073457
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13744a9884a1dafaff4c8e914b26a619
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4afb0d898c1c22a5e88248733bd69457
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a39bd37f3ca89fb0446bcdbbbe9a596
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Buildings/Materials/ChickenFarm-512-albedo.mat
+Dependencies: []

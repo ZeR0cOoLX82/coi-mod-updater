@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2295964317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aca3755723777b4be53a62092c101358
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3bf9a976b965755c723703bab4043ba8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a5dd6357f8d8c42c942403cda66da0fc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SolarPanels/GoldFurnace.glb
+- Assets/SolarPanels/SolarPanelMono.png
+- Assets/SolarPanels/SolarPanel.png
+- Assets/SolarPanels/SolarPanelMono.mat
+- Assets/SolarPanels/SolarPanel-512-normals.png
+- Assets/SolarPanels/SolarPanel-512-metallic_0.png
+- Assets/SolarPanels/SolarPanel-512-metallic.png
+- Assets/SolarPanels/SolarPanel-512-albedo.png
+- Assets/SolarPanels/SolarPanel-512-normals_0.png
+- Assets/SolarPanels/SolarPanel-512-albedo_0.png
+- Assets/SolarPanels/QuarterPanelPoly.glb
+- Assets/SolarPanels/QuarterPanel.glb
+Dependencies: []

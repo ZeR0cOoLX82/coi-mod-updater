@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 4148492474
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c06391541e558adfd3acc16e16bd3c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8dfe6e71b12d370cb0a87c5bfbc8aec6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Structures/Walls/RetainingWallEnhanced.mat
+- Assets/Structures/Walls/RetainingWalls-1024-normal.png
+- Assets/Structures/Walls/RetainingWall4mRamp.obj
+- Assets/Structures/Walls/RetainingWalls-1024-Albedo_enhanced.png
+- Assets/Structures/Walls/RetainingWall8mRampLong.obj
+- Assets/Structures/Walls/RetainingWall8mRampUp.obj
+- Assets/Structures/Walls/NewRetainingWall.mat
+- Assets/Structures/Walls/RetainingWall8mRamp.obj
+- Assets/Structures/Walls/RetainingWall4mRampShallow.obj
+- Assets/Structures/Walls/RetainingWall4mv2.obj
+- Assets/Structures/Walls/RetainingWalls-1024-smoothmetal.png
+- Assets/Structures/Walls/RetainingWalls-1024-Albedo.png
+Dependencies: []

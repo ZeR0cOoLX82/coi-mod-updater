@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1906776585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7397c0d9b1dd24ff864fafdd12f409b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b0a3da3d08f67ec9cbc28e3ab7c39fb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7f8d2ee9419d90c93ce6641bff3c3c34
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Buildings/LadleFurnace/LadleFurnace.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/ladlefurnace_3fba

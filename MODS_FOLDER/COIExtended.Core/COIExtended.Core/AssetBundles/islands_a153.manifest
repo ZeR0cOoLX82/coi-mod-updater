@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3784736905
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e309b94f2124ec43e5b937a3e0091702
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 99ebabbd56ce6edf41745d2de681996b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/World/Islands/Gold.png
+- Assets/World/Islands/Settlement5.png
+- Assets/World/Islands/Settlement4.png
+- Assets/World/Islands/Settlement8.png
+- Assets/World/Islands/Settlement3.png
+- Assets/World/Islands/Titanium.png
+- Assets/World/Islands/Settlement7.png
+- Assets/World/Islands/Settlement2.png
+- Assets/World/Islands/Bauxite.png
+- Assets/World/Islands/Settlement1.png
+- Assets/World/Islands/Copper.png
+- Assets/World/Islands/Settlement6.png
+- Assets/World/Islands/Iron.png
+Dependencies: []

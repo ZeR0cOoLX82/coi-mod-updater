@@ -1,0 +1,550 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 617405586
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: buildings_69f3
+      Dependencies: {}
+    Info_1:
+      Name: materials_0525
+      Dependencies: {}
+    Info_2:
+      Name: icons_9e4b
+      Dependencies: {}
+    Info_3:
+      Name: balancers_127d
+      Dependencies: {}
+    Info_4:
+      Name: balancerfluidlarge_d07f
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_5:
+      Name: balancerfluidlong_3bc0
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_6:
+      Name: balancerunitlarge_a947
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_7:
+      Name: balancerunitlong_2f19
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_8:
+      Name: balancerushapelarge_10e9
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_9:
+      Name: balancerushapelong_06d9
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_10:
+      Name: sorterfluid_adf4
+      Dependencies:
+        Dependency_0: balancers_127d
+    Info_11:
+      Name: counter_d901
+      Dependencies: {}
+    Info_12:
+      Name: counterflat_d5af
+      Dependencies:
+        Dependency_0: counter_d901
+        Dependency_1: digital_bbb2
+    Info_13:
+      Name: counterfluid_ad98
+      Dependencies:
+        Dependency_0: counter_d901
+        Dependency_1: digital_bbb2
+    Info_14:
+      Name: countermolten_6fc3
+      Dependencies:
+        Dependency_0: counter_d901
+        Dependency_1: digital_bbb2
+    Info_15:
+      Name: counterushape_00ba
+      Dependencies:
+        Dependency_0: counter_d901
+        Dependency_1: digital_bbb2
+    Info_16:
+      Name: sign_d79e
+      Dependencies:
+        Dependency_0: digital_bbb2
+    Info_17:
+      Name: icons_896c
+      Dependencies: {}
+    Info_18:
+      Name: trains_bfb5
+      Dependencies: {}
+    Info_19:
+      Name: transports_d2a6
+      Dependencies: {}
+    Info_20:
+      Name: solarpanels_268f
+      Dependencies: {}
+    Info_21:
+      Name: quarterpanelmono_defa
+      Dependencies:
+        Dependency_0: solarpanels_268f
+    Info_22:
+      Name: quarterpanelpoly_34f9
+      Dependencies:
+        Dependency_0: solarpanels_268f
+    Info_23:
+      Name: barriers_523e
+      Dependencies: {}
+    Info_24:
+      Name: barriercornerhd_f1c9
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_25:
+      Name: barriercornerred_f7b9
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_26:
+      Name: barriercornerwashed_7f84
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_27:
+      Name: barriercrosshd_08be
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_28:
+      Name: barriercrossred_9da5
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_29:
+      Name: barriercrosswashed_d30e
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_30:
+      Name: barrierendhd_7310
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_31:
+      Name: barrierendred_f020
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_32:
+      Name: barrierendwashed_a081
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_33:
+      Name: barrierstraighthd_cc37
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_34:
+      Name: barrierstraightred_9cad
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_35:
+      Name: barrierstraightwashed_5f16
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_36:
+      Name: barrierteehd_30cc
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_37:
+      Name: barrierteered_f2fb
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_38:
+      Name: barrierteewashed_1423
+      Dependencies:
+        Dependency_0: barriers_523e
+    Info_39:
+      Name: decorations_beb7
+      Dependencies: {}
+    Info_40:
+      Name: settlementdecoration-blank_b9c3
+      Dependencies:
+        Dependency_0: decorations_beb7
+    Info_41:
+      Name: icons_4459
+      Dependencies: {}
+    Info_42:
+      Name: walls_ab14
+      Dependencies: {}
+    Info_43:
+      Name: newretainingwall2m_8c02
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_44:
+      Name: newretainingwall4m_0cc4
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_45:
+      Name: newretainingwall4mramp_0882
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_46:
+      Name: newretainingwall8m_bbb8
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_47:
+      Name: newretainingwall8mramplong_4baf
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_48:
+      Name: newretainingwallcorner_e0fd
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_49:
+      Name: newretainingwalltee_468a
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_50:
+      Name: newretainingwallxing_03e8
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_51:
+      Name: retainingwall4mrampshallow_8d19
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_52:
+      Name: icons_16ce
+      Dependencies: {}
+    Info_53:
+      Name: islands_a153
+      Dependencies: {}
+    Info_54:
+      Name: world_dac4
+      Dependencies: {}
+    Info_55:
+      Name: cargodrydock_3e1e
+      Dependencies:
+        Dependency_0: world_dac4
+    Info_56:
+      Name: digital_bbb2
+      Dependencies: {}
+    Info_57:
+      Name: fonts & materials_6039
+      Dependencies: {}
+    Info_58:
+      Name: cannery_4164
+      Dependencies:
+        Dependency_0: buildings_69f3
+    Info_59:
+      Name: fishingdock_34af
+      Dependencies:
+        Dependency_0: buildings_69f3
+    Info_60:
+      Name: fishingdock2_80db
+      Dependencies:
+        Dependency_0: buildings_69f3
+    Info_61:
+      Name: fishingdock3_996a
+      Dependencies:
+        Dependency_0: buildings_69f3
+    Info_62:
+      Name: products_7524
+      Dependencies: {}
+    Info_63:
+      Name: anchovies_1e80
+      Dependencies:
+        Dependency_0: products_7524
+    Info_64:
+      Name: cod_1685
+      Dependencies:
+        Dependency_0: products_7524
+    Info_65:
+      Name: mackerel_88e3
+      Dependencies:
+        Dependency_0: products_7524
+    Info_66:
+      Name: sardines_886d
+      Dependencies:
+        Dependency_0: products_7524
+    Info_67:
+      Name: swordfish_7619
+      Dependencies:
+        Dependency_0: products_7524
+    Info_68:
+      Name: tuna_ecb7
+      Dependencies:
+        Dependency_0: products_7524
+    Info_69:
+      Name: foodcanempty_bae7
+      Dependencies:
+        Dependency_0: products_7524
+    Info_70:
+      Name: foodcanfish_129e
+      Dependencies:
+        Dependency_0: products_7524
+    Info_71:
+      Name: foodcanfruit_fd30
+      Dependencies:
+        Dependency_0: products_7524
+    Info_72:
+      Name: foodcanpack_fcdd
+      Dependencies:
+        Dependency_0: products_7524
+    Info_73:
+      Name: foodcanvegetables_eb1c
+      Dependencies:
+        Dependency_0: products_7524
+    Info_74:
+      Name: rawfish_fbf0
+      Dependencies:
+        Dependency_0: products_7524
+    Info_75:
+      Name: machines_dffa
+      Dependencies: {}
+    Info_76:
+      Name: synfuelgenerator_4e38
+      Dependencies:
+        Dependency_0: machines_dffa
+    Info_77:
+      Name: synfuelplant_6d98
+      Dependencies:
+        Dependency_0: machines_dffa
+    Info_78:
+      Name: icons_7449
+      Dependencies: {}
+    Info_79:
+      Name: highpressureboiler_b181
+      Dependencies:
+        Dependency_0: machines_dffa
+    Info_80:
+      Name: legacy_cb14
+      Dependencies:
+        Dependency_0: resources_279b
+    Info_81:
+      Name: truckbase_7882
+      Dependencies:
+        Dependency_0: legacy_cb14
+    Info_82:
+      Name: cargoships_a806
+      Dependencies: {}
+    Info_83:
+      Name: cargodepott5_4825
+      Dependencies:
+        Dependency_0: cargoships_a806
+    Info_84:
+      Name: cargodepott6_014f
+      Dependencies:
+        Dependency_0: cargoships_a806
+    Info_85:
+      Name: vehicles_cbff
+      Dependencies:
+        Dependency_0: resources_279b
+    Info_86:
+      Name: treeharvestert2s_3ceb
+      Dependencies:
+        Dependency_0: vehicles_cbff
+    Info_87:
+      Name: treeplantert1s_d6ad
+      Dependencies:
+        Dependency_0: vehicles_cbff
+    Info_88:
+      Name: distillery_b610
+      Dependencies: {}
+    Info_89:
+      Name: particles_8552
+      Dependencies:
+        Dependency_0: resources_279b
+    Info_90:
+      Name: distillationt1_b2a2
+      Dependencies:
+        Dependency_0: distillery_b610
+        Dependency_1: particles_8552
+    Info_91:
+      Name: distillationt2_8ca9
+      Dependencies:
+        Dependency_0: distillery_b610
+        Dependency_1: particles_8552
+    Info_92:
+      Name: distillationt3_e1be
+      Dependencies:
+        Dependency_0: distillery_b610
+        Dependency_1: particles_8552
+    Info_93:
+      Name: largeexcavator_4a50
+      Dependencies:
+        Dependency_0: vehicles_cbff
+    Info_94:
+      Name: largeexcavatorh_c56b
+      Dependencies:
+        Dependency_0: vehicles_cbff
+    Info_95:
+      Name: largeexcavators_5cfd
+      Dependencies:
+        Dependency_0: vehicles_cbff
+    Info_96:
+      Name: fuelstations_a821
+      Dependencies: {}
+    Info_97:
+      Name: fuelstation4_13e2
+      Dependencies:
+        Dependency_0: fuelstations_a821
+    Info_98:
+      Name: fuelstation4h_7389
+      Dependencies:
+        Dependency_0: fuelstations_a821
+    Info_99:
+      Name: fuelstation4s_a909
+      Dependencies:
+        Dependency_0: fuelstations_a821
+    Info_100:
+      Name: core_bf0a
+      Dependencies:
+        Dependency_0: products_7524
+    Info_101:
+      Name: resources_279b
+      Dependencies: {}
+    Info_102:
+      Name: excavatort3_3e70
+      Dependencies:
+        Dependency_0: resources_279b
+    Info_103:
+      Name: excavatort3r_6060
+      Dependencies:
+        Dependency_0: vehicles_cbff
+        Dependency_1: excavatort3_3e70
+    Info_104:
+      Name: largetruckh_f8b9
+      Dependencies:
+        Dependency_0: legacy_cb14
+    Info_105:
+      Name: largetrucks_06c2
+      Dependencies:
+        Dependency_0: legacy_cb14
+    Info_106:
+      Name: icons_5ca1
+      Dependencies: {}
+    Info_107:
+      Name: fusionreactor_9b44
+      Dependencies: {}
+    Info_108:
+      Name: fusionreactor_9f73
+      Dependencies:
+        Dependency_0: fusionreactor_9b44
+    Info_109:
+      Name: researchlab6_64e8
+      Dependencies: {}
+    Info_110:
+      Name: researchlabt6_58ee
+      Dependencies:
+        Dependency_0: researchlab6_64e8
+    Info_111:
+      Name: countable_6f65
+      Dependencies: {}
+    Info_112:
+      Name: alnicoingot_8e8b
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_113:
+      Name: aluminumfoil_a3d2
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_114:
+      Name: batterypacklithium_e11a
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_115:
+      Name: cathodehighni_6676
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_116:
+      Name: cathodenmc_6930
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_117:
+      Name: dtfusionfuelrod_af6f
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_118:
+      Name: dtfusionfuelrodspent_06d0
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_119:
+      Name: labequipment5_ea23
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_120:
+      Name: lithium6_2b36
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_121:
+      Name: lithium7_3150
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_122:
+      Name: mnsteelingot_1824
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_123:
+      Name: satellitethruster_7639
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_124:
+      Name: siliconwaferbroken_04a7
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_125:
+      Name: solarsatellite_d330
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_126:
+      Name: loose_14aa
+      Dependencies:
+        Dependency_0: products_7524
+    Info_127:
+      Name: textures_cdeb
+      Dependencies: {}
+    Info_128:
+      Name: commssatellite_899c
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_129:
+      Name: relaysatellite_7917
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_130:
+      Name: solarsatellitehighni_c46e
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_131:
+      Name: supercomputersatellite_7c87
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_132:
+      Name: mechanicalpartst2_e065
+      Dependencies:
+        Dependency_0: countable_6f65
+    Info_133:
+      Name: maintenancedepott4_52fe
+      Dependencies: {}
+    Info_134:
+      Name: maintenancedepott4_e0cc
+      Dependencies:
+        Dependency_0: maintenancedepott4_52fe
+    Info_135:
+      Name: retainingwall8mrampup_e87a
+      Dependencies:
+        Dependency_0: walls_ab14
+    Info_136:
+      Name: alnicoingot_1 variant_3bec
+      Dependencies:
+        Dependency_0: particles_8552
+        Dependency_1: countable_6f65
+    Info_137:
+      Name: powergent3_3de6
+      Dependencies: {}
+    Info_138:
+      Name: multistageturbine_ea53
+      Dependencies:
+        Dependency_0: powergent3_3de6
+    Info_139:
+      Name: powergeneratort3_ed15
+      Dependencies:
+        Dependency_0: powergent3_3de6
+    Info_140:
+      Name: ladlefurnace_3fba
+      Dependencies: {}
+    Info_141:
+      Name: ladlefurnace_0c21
+      Dependencies:
+        Dependency_0: ladlefurnace_3fba

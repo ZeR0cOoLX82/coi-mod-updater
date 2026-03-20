@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3640545194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03e2d28323288a1ada2e8614aa31b6de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b0a3da3d08f67ec9cbc28e3ab7c39fb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dfb2b636fd2a955ab822ab26b4d7e151
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Structures/Walls/NewRetainingWall4m.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/walls_ab14

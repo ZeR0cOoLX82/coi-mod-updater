@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 650954095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 195c10aea34d5d07cddcbb37417fcbdf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 96d93520a5ba0927a99c81f9fcfa8abb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/World/ShipyardT2-1024-albedo.png
+- Assets/World/ShipyardT2-512-normals.png
+- Assets/World/ShipyardT2-1024-metallic.png
+- Assets/World/CargoDrydockWIP3.obj
+- Assets/World/Drydock.mat
+- Assets/World/CargoShip.mat
+- Assets/World/CargoShip-1024-albedo.png
+- Assets/World/CargoShip-1024-metallic.png
+- Assets/World/CargoShip-1024-normals.png
+Dependencies: []

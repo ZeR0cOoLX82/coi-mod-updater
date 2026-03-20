@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3451785908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3de10512d5dd2c7bbcf5e35300230447
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b0a3da3d08f67ec9cbc28e3ab7c39fb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be584b74175392a8f05db0ebf9643822
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Buildings/MaintenanceDepotT4/MaintenanceDepotT4.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/maintenancedepott4_52fe

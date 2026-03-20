@@ -1,0 +1,12 @@
+{
+  "id": "COIExtended-Difficulty",
+  "version": "1.1.6",
+  "authors": ["Keranik"],
+  "display_name": "COIExtended-Difficulty",
+  "description_short": "Allows a wider range of difficulty options to be chosen.",
+  "min_game_version": "0.8",
+  "primary_dlls": ["COIExtended.Difficulty.dll"],
+  "optional_mod_dependencies": [],
+  "non_locking_dll_load": true,
+  "can_add_to_saved_game": true
+}

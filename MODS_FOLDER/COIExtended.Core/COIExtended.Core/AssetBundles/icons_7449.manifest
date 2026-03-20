@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2324804057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2541f984f2ee8b38d8e13c3b2ce5cf5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd583f1ee56d9385e83d89c639ac860a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Icons/SynfuelGas.png
+- Assets/Icons/SynfuelGenerator.png
+- Assets/Icons/LargeExcavatorH.png
+- Assets/Icons/CargoDepotT6.png
+- Assets/Icons/SynfuelLiquid.png
+- Assets/Icons/LargeExcavator.png
+- Assets/Icons/SynfuelRefinery.png
+- Assets/Icons/DistillationTowerS3T2.png
+- Assets/Icons/TreePlanterT1S.png
+- Assets/Icons/TrainStationFuelSynfuel.png
+- Assets/Icons/LargeExcavatorS.png
+- Assets/Icons/FuelStationHydrogenT4.png
+- Assets/Icons/DistillationTowerS2T2.png
+- Assets/Icons/ExcavatorT3S.png
+- Assets/Icons/FuelStationT4.png
+- Assets/Icons/FuelStationSynfuelT4.png
+- Assets/Icons/CargoDepotT5.png
+- Assets/Icons/LocomotiveT1SynfuelLiquid.png
+- Assets/Icons/LocomotiveT1SynfuelLiquidSide.png
+- Assets/Icons/HighPressureBoiler.png
+- Assets/Icons/DistillationTowerS1T2.png
+- Assets/Icons/TreeHarvesterT2S.png
+Dependencies: []

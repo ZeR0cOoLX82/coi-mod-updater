@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 160961250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7344c798d7a98a501298967f159e9616
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb8521372c98e74594d3b7eb1b0a7a88
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec7374f63f1b6dbc84e5abf07997df6b
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TextMesh Pro/Resources/Mafi_Colorizable.shader
+- Assets/TextMesh Pro/Resources/Mafi_StandardMovable.shader
+- Assets/TextMesh Pro/Resources/TransportFlowArrowInstanced.shader
+- Assets/TextMesh Pro/Resources/CustomColorizable.shader
+Dependencies: []

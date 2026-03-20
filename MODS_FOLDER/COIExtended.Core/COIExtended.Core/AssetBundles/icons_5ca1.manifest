@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3091916851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5074e17e99902a02968d08569cc43f36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 22b82663a47c1d3d46e1f2853a2e047c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Icons/NMCPrecursorMix.png
+- Assets/Core/Icons/MaintenanceDepotT4.png
+- Assets/Core/Icons/HeavyWater.png
+- Assets/Core/Icons/SiliconWaferBroken.png
+- Assets/Core/Icons/MechanicalPartsT2.png
+- Assets/Core/Icons/SatelliteAssembler.png
+- Assets/Core/Icons/NickelOreCrushed.png
+- Assets/Core/Icons/ElectrodeCoater.png
+- Assets/Core/Icons/LadleFurnace.png
+- Assets/Core/Icons/MultistageTurbine.png
+- Assets/Core/Icons/CausticSoda.png
+- Assets/Core/Icons/LithiumEluate.png
+- Assets/Core/Icons/FrackingWell.png
+- Assets/Core/Icons/RelaySatellite.png
+- Assets/Core/Icons/SatelliteReceiver.png
+- Assets/Core/Icons/BrineSpent.png
+- Assets/Core/Icons/CommsSatellite.png
+- Assets/Core/Icons/NickelOrePowder.png
+- Assets/Core/Icons/ManganeseFlakes.png
+- Assets/Core/Icons/NickelOre.png
+- Assets/Core/Icons/MnSteelIngot.png
+- Assets/Core/Icons/FusionReactor.png
+- Assets/Core/Icons/TritiumGas.png
+- Assets/Core/Icons/CathodeNMC.png
+- Assets/Core/Icons/CathodeHighNi.png
+- Assets/Core/Icons/HydrogenChloride.png
+- Assets/Core/Icons/DTFusionFuelRods.png
+- Assets/Core/Icons/EnrichedLi6.png
+- Assets/Core/Icons/ArgonGas.png
+- Assets/Core/Icons/SaltMixImpure.png
+- Assets/Core/Icons/BrineLithium.png
+- Assets/Core/Icons/DTFusionFuelRodsSpent.png
+- Assets/Core/Icons/SatelliteControlCenter.png
+- Assets/Core/Icons/LithiumChloride.png
+- Assets/Core/Icons/SatelliteThruster.png
+- Assets/Core/Icons/AluminumFoil.png
+- Assets/Core/Icons/BatteryPackLithium.png
+- Assets/Core/Icons/SolarSatellite.png
+- Assets/Core/Icons/AlnicoIngot.png
+- Assets/Core/Icons/DeuteriumGas.png
+- Assets/Core/Icons/SupercomputerSatellite.png
+- Assets/Core/Icons/ExhaustClean.png
+- Assets/Core/Icons/CobaltPowder.png
+- Assets/Core/Icons/ElectrodeSeparator.png
+- Assets/Core/Icons/LabEquipment5.png
+- Assets/Core/Icons/LithiumCarbonate.png
+- Assets/Core/Icons/EnrichedLi7.png
+- Assets/Core/Icons/SodaAsh.png
+- Assets/Core/Icons/HeliumGas.png
+- Assets/Core/Icons/BrineConcentrated.png
+- Assets/Core/Icons/HeliumCooled.png
+- Assets/Core/Icons/SolarSatelliteHighNi.png
+- Assets/Core/Icons/ResearchLab6.png
+- Assets/Core/Icons/PowerGeneratorT3.png
+Dependencies: []

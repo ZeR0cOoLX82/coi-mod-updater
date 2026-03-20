@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 4036432238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4b620a3b083a18bcbdcd99ba2396bfc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1696341565d1fad3e8e70639ff20915
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d4461a100d1cc8d45e92dbf1cd01dc14
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Vehicles/ExcavatorT3/ExcavatorT3R.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/excavatort3_3e70
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/vehicles_cbff

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3864967537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a1a640432b3fea7049685100e651314
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02891d9e88e5268131f274408ebabf71
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e4c91da8f4220fd18d9c784448705cb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/CargoShips/CargoDepotT6.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/cargoships_a806

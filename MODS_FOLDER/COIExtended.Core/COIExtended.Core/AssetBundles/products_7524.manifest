@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 514346032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 764c2cfffcd2fee1a7bea6d373e537d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3219c50854ff2a782d7e36576b5dbf5b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ce1acce16eba2367e527b1bbc9fee025
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Agriculture/Products/FoodCanVegetables-albedo.png
+- Assets/Agriculture/Products/FoodCanPack.mat
+- Assets/Agriculture/Products/Anchovies.mat
+- Assets/Agriculture/Products/FoodCanFish-albedo.png
+- Assets/Agriculture/Products/Cod-albedo.png
+- Assets/Agriculture/Products/Swordfish-albedo.png
+- Assets/Agriculture/Products/FoodCanPack-albedo.png
+- Assets/Agriculture/Products/Anchovies-albedo.png
+- Assets/Agriculture/Products/RawFish-albedo4.png
+- Assets/Agriculture/Products/MedicalSupplies.glb
+- Assets/Agriculture/Products/RawFish.mat
+- Assets/Agriculture/Products/Meat.glb
+- Assets/Agriculture/Products/Tuna.mat
+- Assets/Agriculture/Products/FoodCanFruit-albedo.png
+- Assets/Agriculture/Products/FishScales-512-normals.png
+- Assets/Agriculture/Products/FoodCanEmpty.mat
+- Assets/Agriculture/Products/Swordfish.mat
+- Assets/Agriculture/Products/Mackerel-albedo.png
+- Assets/Agriculture/Products/FishScales-512-albedo.png
+- Assets/Agriculture/Products/LooseMaterialPile.shader
+- Assets/Agriculture/Products/Cod.mat
+- Assets/Agriculture/Products/Tuna-albedo.png
+- Assets/Agriculture/Products/Sardines.mat
+- Assets/Agriculture/Products/FoodCanFish.mat
+- Assets/Agriculture/Products/FoodCanVegetables.mat
+- Assets/Agriculture/Products/FoodCanFruit.mat
+- Assets/Agriculture/Products/FishScales-256-metallic.png
+- Assets/Agriculture/Products/FoodCanEmpty-albedo.png
+- Assets/Agriculture/Products/Sardines-albedo.png
+- Assets/Agriculture/Products/Mackerel.mat
+- Assets/Agriculture/Products/FishScales.mat
+Dependencies: []

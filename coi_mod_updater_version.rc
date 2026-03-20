@@ -1,0 +1,5 @@
+@"1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+BEGIN
+    VALUE "CompanyName", "ZeR0cOoLX82"\n    VALUE "FileDescription", "COI-Mod-Updater: Automated Captain of Industry Mod Updater"\n    VALUE "ProductName", "COI-Mod-Updater"\n    VALUE "ProductVersion", "1.0.0"\n    VALUE "FileVersion", "1.0.0"\n    VALUE "LegalCopyright", "Copyright (c) 2026 ZeR0cOoLX82"\n    VALUE "OriginalFilename", "COI-Mod-Updater.exe"\n    VALUE "InternalName", "COI-Mod-Updater"\nEND

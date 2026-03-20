@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3324439088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ab3bd2994a3d62961bbe92f1c94cc39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a430acba0615705272a6f6fe76e777db
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 679ac454dbc147070bd0a3d8c267b1b4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 19001, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.TextCoreTextEngineModule
+  ClassName: UnityEngine.TextCore.Text.Character
+- AssemblyName: UnityEngine.TextCoreTextEngineModule
+  ClassName: UnityEngine.TextCore.Text.FontAssetCreationEditorSettings
+- AssemblyName: UnityEngine.TextCoreTextEngineModule
+  ClassName: UnityEngine.TextCore.Text.FontFeatureTable
+- AssemblyName: UnityEngine.TextCoreTextEngineModule
+  ClassName: UnityEngine.TextCore.Text.FontWeightPair
+Assets:
+- Assets/TextMesh Pro/Resources/Fonts & Materials/Digital-Bold.asset
+- Assets/TextMesh Pro/Resources/Fonts & Materials/Digital-Regular.asset
+Dependencies: []

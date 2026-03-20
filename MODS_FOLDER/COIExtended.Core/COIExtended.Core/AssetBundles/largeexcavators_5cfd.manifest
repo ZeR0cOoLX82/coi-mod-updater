@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 411217659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f14031018dc3084078e7211d07f7be7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1696341565d1fad3e8e70639ff20915
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d499051f454850dad99127ec7048d17
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Vehicles/LargeExcavatorS.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/vehicles_cbff

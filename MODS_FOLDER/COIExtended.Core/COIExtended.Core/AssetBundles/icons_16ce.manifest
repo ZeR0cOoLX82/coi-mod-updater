@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 4219595995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 432963f0435895a737a2565ee2505b69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd788302874c32ff66741a5854971e51
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/World/Icons/Engine4.png
+- Assets/World/Icons/Bridge2.png
+- Assets/World/Icons/FuelTank2.png
+- Assets/World/Icons/Armor4.png
+- Assets/World/Icons/CargoShipDryDock.png
+- Assets/World/Icons/Gun4.png
+- Assets/World/Icons/Engine5.png
+- Assets/World/Icons/Gun5.png
+- Assets/World/Icons/Armor3.png
+Dependencies: []

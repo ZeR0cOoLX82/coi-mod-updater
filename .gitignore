@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.spec
+.env
+settings.json
+coi_mod_versions.json
+coi_updater.log
+backups/
+*.ico

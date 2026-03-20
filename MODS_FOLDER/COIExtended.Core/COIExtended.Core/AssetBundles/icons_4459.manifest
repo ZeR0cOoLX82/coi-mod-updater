@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1230442369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11f0be31bfe82d7519f7f148e4f6b086
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 97f600e678a90159a1258f8148211ad7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Structures/Icons/RetainingWallCorner.png
+- Assets/Structures/Icons/BarrierEndingRed.png
+- Assets/Structures/Icons/RetainingWallRamp2ShallowOffset.png
+- Assets/Structures/Icons/BarrierTeeWashed.png
+- Assets/Structures/Icons/BarrierStraight1Fresh.png
+- Assets/Structures/Icons/RetainingWallRamp4Up.png
+- Assets/Structures/Icons/RetainingWallRamp2.png
+- Assets/Structures/Icons/BarrierCornerWashed.png
+- Assets/Structures/Icons/BarrierTeeFresh.png
+- Assets/Structures/Icons/RetainingWallStraight1.png
+- Assets/Structures/Icons/RetainingWallRamp2Shallow.png
+- Assets/Structures/Icons/BarrierCrossRed.png
+- Assets/Structures/Icons/RetainingWallCross.png
+- Assets/Structures/Icons/BarrierCrossWashed.png
+- Assets/Structures/Icons/BarrierCornerRed.png
+- Assets/Structures/Icons/RetainingWallStraight2.png
+- Assets/Structures/Icons/BarrierStraight1Red.png
+- Assets/Structures/Icons/RetainingWallRamp4.png
+- Assets/Structures/Icons/BarrierCrossFresh.png
+- Assets/Structures/Icons/BarrierEndingFresh.png
+- Assets/Structures/Icons/SettlementBlank.png
+- Assets/Structures/Icons/BarrierEndingWashed.png
+- Assets/Structures/Icons/RetainingWallStraight4.png
+- Assets/Structures/Icons/BarrierStraight1Washed.png
+- Assets/Structures/Icons/RetainingWallTee.png
+- Assets/Structures/Icons/BarrierTeeRed.png
+- Assets/Structures/Icons/BarrierCornerFresh.png
+Dependencies: []

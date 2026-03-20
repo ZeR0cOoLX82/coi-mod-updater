@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2023703033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3e5e5b765d5d9e3b78d3a677a1b78e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bfe1ac50e21631e31a06642c84cdc992
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Buildings/FusionReactor/Reactor-1024-albedo.png
+- Assets/Core/Buildings/FusionReactor/Glass.mat
+- Assets/Core/Buildings/FusionReactor/Base-2048-albedo_1.png
+- Assets/Core/Buildings/FusionReactor/Fence.mat
+- Assets/Core/Buildings/FusionReactor/Details-1024-metallic.png
+- Assets/Core/Buildings/FusionReactor/Glass-512-albedo_1.png
+- Assets/Core/Buildings/FusionReactor/Details-1024-normals_1.png
+- Assets/Core/Buildings/FusionReactor/Details.mat
+- Assets/Core/Buildings/FusionReactor/Reactor.mat
+- Assets/Core/Buildings/FusionReactor/Fence-128-normals_1.png
+- Assets/Core/Buildings/FusionReactor/Base-4096-smoothmetal.2x.png
+- Assets/Core/Buildings/FusionReactor/Reactor-512-emissive.png
+- Assets/Core/Buildings/FusionReactor/Details-1024-albedo_1.png
+- Assets/Core/Buildings/FusionReactor/Base-4096-normals.2x.png
+- Assets/Core/Buildings/FusionReactor/Base.mat
+- Assets/Core/Buildings/FusionReactor/Glass-512-metallic_1.png
+- Assets/Core/Buildings/FusionReactor/Glass-512-normals_0.png
+- Assets/Core/Buildings/FusionReactor/Reactor-1024-metallic.png
+- Assets/Core/Buildings/FusionReactor/Reactor-2048-normals.png
+- Assets/Core/Buildings/FusionReactor/Fence-128-albedo_1.png
+Dependencies: []

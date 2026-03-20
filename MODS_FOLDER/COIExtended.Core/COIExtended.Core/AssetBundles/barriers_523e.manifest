@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1508484357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75f4e34aee3139476d73666032b923a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 36ab7af31c8242ba84d855b6a71222c1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Structures/Barriers/NewBarrierWhite.mat
+- Assets/Structures/Barriers/Barrier-512-Albedo-normals.png
+- Assets/Structures/Barriers/Barrier-512-Albedo.png
+- Assets/Structures/Barriers/Barrier-512-Albedo-washed.png
+- Assets/Structures/Barriers/NewBarrierWashed.mat
+- Assets/Structures/Barriers/Barrier-512-Albedo-washed-normals.png
+- Assets/Structures/Barriers/Barrier-512-Albedo-red.png
+- Assets/Structures/Barriers/NewBarrier.mat
+- Assets/Structures/Barriers/Barrier-512-Albedo-washed-refresh.png
+- Assets/Structures/Barriers/Barrier-512-Albedo-refresh.png
+- Assets/Structures/Barriers/Barrier-512-Albedo-red-refresh.png
+Dependencies: []

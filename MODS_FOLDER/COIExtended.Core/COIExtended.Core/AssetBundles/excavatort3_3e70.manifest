@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 3296590827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 019204f5df3e5ec65b3aa41e7058dc17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ecdff4facae29960c6b924cc0981a35
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e561d3d389678e7b9f08c50286430ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Vehicles/ExcavatorT3/ExcavatorT3-512-smoothmetalemis.png
+- Assets/Vehicles/ExcavatorT3/_ramenoA.obj
+- Assets/Vehicles/ExcavatorT3/ExcavatorT3.controller
+- Assets/Vehicles/ExcavatorT3/ExcavatorT3-512-albedo.png
+- Assets/Vehicles/ExcavatorT3/ExcavatorT3-512-normals.png
+- Assets/Vehicles/ExcavatorT3/_ramenoB.obj
+- Assets/Vehicles/ExcavatorT3/ExcavatorT3.fbx
+- Assets/Vehicles/ExcavatorT3/Excavator.mat
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/resources_279b

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 2230392148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c81a19449740b18552cf7a156965e678
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 389657bf87657de9c3c137c556b40068
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Products/Loose/SaltMixImpure-albedo.png
+- Assets/Core/Products/Loose/SodaAsh.mat
+- Assets/Core/Products/Loose/NickelOrePowder.png
+- Assets/Core/Products/Loose/NickelOre-metallic.png
+- Assets/Core/Products/Loose/CobaltOrePowder.png
+- Assets/Core/Products/Loose/NickelOre-albedo.png
+- Assets/Core/Products/Loose/NMCPrecursorMix.mat
+- Assets/Core/Products/Loose/ManganeseFlakes-normals.png
+- Assets/Core/Products/Loose/CobaltOrePowder-normals.png
+- Assets/Core/Products/Loose/ManganeseFlakes-albedo.png
+- Assets/Core/Products/Loose/NMCPrecursorMix-albedo.png
+- Assets/Core/Products/Loose/CausticSoda-normals.png
+- Assets/Core/Products/Loose/SaltMixImpure-normals.png
+- Assets/Core/Products/Loose/NickelOreCrushed-albedo.png
+- Assets/Core/Products/Loose/LithiumCarbonate-normals.png
+- Assets/Core/Products/Loose/CobaltOrePowder.mat
+- Assets/Core/Products/Loose/SaltMixImpure.mat
+- Assets/Core/Products/Loose/LithiumChloride-normals.png
+- Assets/Core/Products/Loose/LithiumChloride-albedo.png
+- Assets/Core/Products/Loose/NickelOre.mat
+- Assets/Core/Products/Loose/CausticSoda-albedo.png
+- Assets/Core/Products/Loose/NickelOre-normals.png
+- Assets/Core/Products/Loose/NickelOrePowder.mat
+- Assets/Core/Products/Loose/LithiumCarbonate.mat
+- Assets/Core/Products/Loose/NMCPrecursorMix-normals.png
+- Assets/Core/Products/Loose/NickelOreCrushed-normals.png
+- Assets/Core/Products/Loose/CausticSoda.mat
+- Assets/Core/Products/Loose/NickelOreCrushed.mat
+- Assets/Core/Products/Loose/ManganeseFlakes.mat
+- Assets/Core/Products/Loose/NMCPrecursorMix-metallic.png
+- Assets/Core/Products/Loose/LithiumCarbonate-albedo.png
+- Assets/Core/Products/Loose/LithiumChloride.mat
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/products_7524

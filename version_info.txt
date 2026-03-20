@@ -1,0 +1,9 @@
+# COI-Mod-Updater Windows EXE Version Info
+CompanyName=ZeR0cOoLX82
+FileDescription=COI-Mod-Updater: Automated Captain of Industry Mod Updater
+ProductName=COI-Mod-Updater
+ProductVersion=1.0.0
+FileVersion=1.0.0
+LegalCopyright=Copyright (c) 2026 ZeR0cOoLX82
+OriginalFilename=COI-Mod-Updater.exe
+InternalName=COI-Mod-Updater

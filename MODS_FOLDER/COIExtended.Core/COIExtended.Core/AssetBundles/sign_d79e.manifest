@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.50f1
+CRC: 1561690831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d237259e59ce6ef49fa7dc3a48d1dea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 177a968f9c43978c60f395b341176343
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ad5bfe2eb6c02be081aa676fbc3b666
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Logistics/Counter/Sign.prefab
+Dependencies:
+- C:/Projects/Modding/COI/UnityAssetTemplate/AssetBundles/digital_bbb2
